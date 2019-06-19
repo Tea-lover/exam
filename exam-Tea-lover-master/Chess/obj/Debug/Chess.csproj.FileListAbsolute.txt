@@ -1,0 +1,5 @@
+C:\Users\асус\source\repos\Chess\Chess\bin\Debug\Chess.dll
+C:\Users\асус\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\Chess.dll
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\Chess.pdb

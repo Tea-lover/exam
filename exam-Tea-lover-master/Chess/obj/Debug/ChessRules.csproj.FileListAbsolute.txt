@@ -1,0 +1,11 @@
+C:\Users\асус\source\repos\Chess\Chess\bin\Debug\Chess.dll
+C:\Users\асус\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\Chess.dll
+C:\Users\асус\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\bin\Debug\Chess.dll
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\bin\Debug\Chess.pdb
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\obj\Debug\ChessRules.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\obj\Debug\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\obj\Debug\Chess.dll
+C:\Users\Монгол\Desktop\exam-Tea-lover-master\Chess\obj\Debug\Chess.pdb
